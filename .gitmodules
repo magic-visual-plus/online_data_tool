@@ -1,9 +1,9 @@
 [submodule "tools/COCOVisualizer"]
 	path = tools/COCOVisualizer
 	url = git@github.com:algo-boost/COCOVisualizer.git
-[submodule "tools/picture-collection"]
-	path = tools/picture-collection
-	url = git@github.com:algo-boost/picture-collection.git
+[submodule "tools/DetForge-Studio"]
+	path = tools/DetForge-Studio
+	url = git@github.com:algo-boost/DetForge-Studio.git
 [submodule "tools/DetUnify-Studio"]
 	path = tools/DetUnify-Studio
 	url = git@github.com:algo-boost/DetUnify-Studio.git
